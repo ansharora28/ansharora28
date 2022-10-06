@@ -6,5 +6,5 @@ C++
 Java
 HTML,CSS
 
-![Statistics:](https://github-readme-stats.vercel.app/api?username=ansharora28)](https://github.com/ansharora28/github-readme-stats)
+[![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansharora28)](https://github.com/anuraghazra/github-readme-stats)
 
