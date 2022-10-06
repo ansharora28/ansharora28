@@ -1,10 +1,9 @@
 CSE student in SRM Institute of Science and Technology
 
 Skills:
-C
-C++
-Java
-HTML,CSS
+C\n
+C++\n
+Java\n
+HTML,CSS\n
 
-[![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansharora28)](https://github.com/anuraghazra/github-readme-stats)
 
