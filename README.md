@@ -1,4 +1,4 @@
-    while(coffee--)
+    while(coffee)
           code();
 
 
