@@ -18,7 +18,6 @@ Find me attending, volunteering or speaking at meetups 🤝
 - Blogs on [Medium](https://medium.com/@ansharora2802)
 - Organiser at FOSS United Chennai. [Join us here!](t.me/fossunitedchennai)
 
-# My tech stack 🤯
 
 ![GIF](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
