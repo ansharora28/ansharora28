@@ -34,3 +34,4 @@ Find me attending, volunteering or speaking at meetups 🤝
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ansharora28&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=ansharora28&row=1&column=9">
