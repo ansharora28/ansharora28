@@ -12,7 +12,8 @@ Thanks for stopping by!
 Find me attending, volunteering or speaking at meetups 🤝
 <br>
 
-- Software Intern at [Essentia Softserv](https://essentia.dev/)
+- Community Evangelist Intern at [OpenWeaver](https://www.openweaver.com/)
+- Ex SDE Intern at [Essentia Softserv](https://essentia.dev/)
 - Product Head at [pFinTools.com](https://pfintools.com/)
 - Active Volunteer at [FOSS United](https://fossunited.org/about)
 - Blogs on [Medium](https://medium.com/@ansharora2802)
