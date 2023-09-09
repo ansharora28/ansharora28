@@ -18,7 +18,7 @@ Find me attending, volunteering or speaking at meetups 🤝
 - Product Head at [pFinTools.com](https://pfintools.com/)
 - Active Volunteer at [FOSS United](https://fossunited.org/about)
 - Blogs on [Medium](https://medium.com/@ansharora2802)
-- Organiser at FOSS United Chennai. [Join us here!](http://t.me/fossunitedchennai)
+- Organiser at FOSS United, CityJS Conferences India. [Join us here!](http://t.me/fossunitedchennai)
 - My personal website -> [https://www.ansharora.live/]
 
 
