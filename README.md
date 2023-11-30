@@ -7,7 +7,7 @@ Thanks for stopping by!
 
 # Who am I 👨‍💻
 
-## FOSS Evangelist. Community Manager. Open Source enthusiast. Developer.
+## FOSS Evangelist. Community Manager.Developer.
 ### Run npx hello-ansh on your terminal for a super short intro 👀
 
 Find me attending, volunteering or speaking at meetups 🤝
