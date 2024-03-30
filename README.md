@@ -12,8 +12,7 @@ Thanks for stopping by!
 - Ex Community Evangelist Intern at [OpenWeaver](https://www.openweaver.com/)
 - Ex SDE Intern at [Essentia Softserv](https://essentia.dev/)
 - Ex Product Head at [pFinTools.com](https://pfintools.com/)
-- Blogs on [Medium](https://medium.com/@ansharora2802)
-- Organiser, CityJS Conferences India. [Join us here!](http://t.me/fossunitedchennai)
+- Organiser, CityJS Conferences India.
 - My personal website -> [https://www.ansharora.tech/]
 
 
@@ -28,5 +27,3 @@ Thanks for stopping by!
 <img alt="Medium" src="https://img.shields.io/badge/Medium-@ansharora2802-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ansharora28&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=ansharora28&row=1&column=9">
