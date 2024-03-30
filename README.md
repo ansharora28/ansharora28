@@ -3,7 +3,6 @@
 
 Thanks for stopping by!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansharora28&label=VIEWS)
 
 ## FOSS Evangelist. Community Manager.Developer.
 
@@ -18,10 +17,7 @@ Thanks for stopping by!
 - My personal website -> [https://www.ansharora.tech/]
 
 
-![GIF](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-
-![GIF](assets/Error.gif)
 
 # Say Hi! 📱
 
