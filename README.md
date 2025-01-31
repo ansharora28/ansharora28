@@ -1,1 +1,2 @@
-Program and Partnerships manager @fossunited
+Programs and Partnerships @fossunited
+
